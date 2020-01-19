@@ -92,7 +92,7 @@ const ProductWrapper = styled.div`
     bottom: 0;
     right: 0;
     padding: 0.2rem 0.4rem;
-    background: var(--lightBlue);
+    background: var(--lightGreen);
     border: none;
     color: var(--mainWhite);
     font-size: 1.4rem;
@@ -101,7 +101,7 @@ const ProductWrapper = styled.div`
     transition: all 0.5s linear;
   }
   .cart-btn:hover {
-    color: var(--mainBlue);
+    color: var(--mainGreen);
     cursor: pointer;
   }
   .img-container:hover .cart-btn {

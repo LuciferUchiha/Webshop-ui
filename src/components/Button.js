@@ -3,10 +3,10 @@ import styled from "styled-components";
 export const ButtonContainer = styled.button`
   font-size: 1.4rem;
   background: transparent;
-  border: 0.05rem solid var(--lightBlue);
+  border: 0.05rem solid var(--lightGreen);
   border-color: ${props =>
-    props.cart ? "var(--mainYellow)" : "var(--lightBlue)"};
-  color: ${props => (props.cart ? "var(--mainYellow)" : "var(--lightBlue)")};
+    props.cart ? "var(--mainDark)" : "var(--lightGreen)"};
+  color: ${props => (props.cart ? "var(--mainDark)" : "var(--lightGreen)")};
   border-radius: 0.5rem;
   padding: 0.2rem 0.5rem;
   cursor: pointer;
@@ -14,8 +14,8 @@ export const ButtonContainer = styled.button`
   transition: all 0.5s ease-in-out;
   &:hover {
     background: ${props =>
-      props.cart ? "var(--mainYellow)" : "var(--lightBlue)"};
-    color: var(--mainBlue);
+      props.cart ? "var(--mainDark)" : "var(--lightGreen)"};
+    color: var(--mainGreen);
   }
   &:focus {
     outline: none;
