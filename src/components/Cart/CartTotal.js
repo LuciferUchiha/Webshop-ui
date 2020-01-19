@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { ButtonContainer } from "../Button";
 
 export default function CartTotal({ value }) {
   const { cartSubTotal, cartTax, cartTotal, clearCart } = value;
@@ -29,6 +30,12 @@ export default function CartTotal({ value }) {
               <span className="text-title">total: </span>{" "}
               <strong>${cartTotal}</strong>
             </h5>
+            <button
+              className="btn btn-outline-success mt-3 mb-3 px-5"
+              type="button"
+            >
+              Checkout
+            </button>
           </div>
         </div>
       </div>
