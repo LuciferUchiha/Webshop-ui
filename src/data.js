@@ -6,7 +6,7 @@ export const storeProducts = [
     price: 10,
     company: "GOOGLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Get more done with Pixel. It has an extraordinary camera with features like night sight, portrait mode, and HDR+. a battery that charges fast and lasts all day. All the helpfulness of the Google assistant built in. And 3 years of security and os updates included . it’s everything you love about Google – in a phone. Works with all major carriers.",
     inCart: false,
     count: 0,
     total: 0
@@ -18,7 +18,7 @@ export const storeProducts = [
     price: 16,
     company: "SAMSUNG",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The Samsung Galaxy S7 edge is more than a smartphone. It's the key that unlocks a galaxy of technology. Big on screen and slim on profile. Less is finally more. The first smartphone with dual-pixel technology features fast autofocus, so you can say goodbye to blurry photos. Catch every detail even in low-light. With its IP68 rating, This device can take on spills and splashes with its premium water-resistant design. Featuring a Quad HD super AMOLED display and is powered by 2.15 GHz/1.6 GHz Quad core Qualcomm Snapdragon 820 processor and runs on Android 6.0.1 (Marshmallow).",
     inCart: false,
     count: 0,
     total: 0
@@ -30,7 +30,7 @@ export const storeProducts = [
     price: 8,
     company: "HTC",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Meet HTC 10. The smartphone crafted with obsession. You get unprecedented control. Off the chart performance. And innovations like the world’s first dual OIS for pro level photos front and back, as well as end-to-end 24-bit Hi-Res sound. We’re redefining what a flagship phone is truly meant to be. And think you’ll love the result. It’s the beauty of light, crafted into a brand new all-metal unibody. Every element of HTC 10 has been designed, refined and perfected. From the bold new chamfered contour to its stunning dual-textured finish and quality construction.",
     inCart: false,
     count: 0,
     total: 0
@@ -42,7 +42,7 @@ export const storeProducts = [
     price: 18,
     company: "HTC",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Meet HTC 10. The smartphone crafted with obsession. You get unprecedented control. Off the chart performance. And innovations like the world’s first dual OIS for pro level photos front and back, as well as end-to-end 24-bit Hi-Res sound. We’re redefining what a flagship phone is truly meant to be. And think you’ll love the result. It’s the beauty of light, crafted into a brand new all-metal unibody. Every element of HTC 10 has been designed, refined and perfected. From the bold new chamfered contour to its stunning dual-textured finish and quality construction.",
     inCart: false,
     count: 0,
     total: 0
@@ -54,7 +54,7 @@ export const storeProducts = [
     price: 24,
     company: "HTC",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Get everything you want and more, with a best-in-class 13MP main camera that captures life’s moments in high-resolution. A powerful processor and dual SIM capability keeps you ahead, and a large 5” HD display provides a great viewing experience. Enjoy high-quality performance in a slim, stylish frame.",
     inCart: false,
     count: 0,
     total: 0
@@ -66,7 +66,7 @@ export const storeProducts = [
     price: 17,
     company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The iPhone 3GS features iOS, Apple's mobile operating system. The user interface of iOS is based on the concept of direct manipulation, using multi-touch gestures. Interface control elements consist of sliders, switches, and buttons. Interaction with the OS includes gestures such as swipe, tap, pinch, and reverse pinch, all of which have specific definitions within the context of the iOS operating system and its multi-touch interface. Internal accelerometers are used by some applications to respond to shaking the device (one common result is the undo command) or rotating it vertically (one common result is switching from portrait to landscape mode).",
     inCart: false,
     count: 0,
     total: 0
@@ -78,7 +78,7 @@ export const storeProducts = [
     price: 30,
     company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "iPhone 7 dramatically improves the most important aspects of the iPhone experience. It introduces advanced new camera systems. The best performance and battery life ever in an iPhone. Immersive stereo speakers. The brightest, most colorful iPhone display. Splash and water resistance. And it looks every bit as powerful as it is. This is iPhone 7. iPhone 7 reaches a new level of innovation and precision. The enclosure is splash and water resistant. The Home button is completely reengineered. And with a new unibody design that's seamless to the touch, iPhone 7 feels as amazing as it looks.",
     inCart: false,
     count: 0,
     total: 0
@@ -90,7 +90,7 @@ export const storeProducts = [
     price: 2,
     company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "iPhone 7 dramatically improves the most important aspects of the iPhone experience. It introduces advanced new camera systems. The best performance and battery life ever in an iPhone. Immersive stereo speakers. The brightest, most colorful iPhone display. Splash and water resistance. And it looks every bit as powerful as it is. This is iPhone 7. iPhone 7 reaches a new level of innovation and precision. The enclosure is splash and water resistant. The Home button is completely reengineered. And with a new unibody design that's seamless to the touch, iPhone 7 feels as amazing as it looks.",
     inCart: false,
     count: 0,
     total: 0
@@ -104,7 +104,7 @@ export const detailProduct = {
   price: 10,
   company: "GOOGLE",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Get more done with Pixel. It has an extraordinary camera with features like night sight, portrait mode, and HDR+. a battery that charges fast and lasts all day. All the helpfulness of the Google assistant built in. And 3 years of security and os updates included . it’s everything you love about Google – in a phone. Works with all major carriers.",
   inCart: false,
   count: 0,
   total: 0
